@@ -1,6 +1,17 @@
 [
-    {"id": 1, "name": "Classic T-Shirt", "price": 499, "image": "https://placehold.co/150/FF0000/FFFFFF?text=T-Shirt"},
-    {"id": 2, "name": "Running Shoes", "price": 1200, "image": "https://placehold.co/150/0000FF/FFFFFF?text=Shoes"},
-    {"id": 3, "name": "Smart Watch", "price": 3500, "image": "https://placehold.co/150/00FF00/FFFFFF?text=Watch"},
-    {"id": 4, "name": "Denim Jeans", "price": 990, "image": "https://placehold.co/150/FFFF00/000000?text=Jeans"}
+    {"id": 1, "name": "ชัย (LIMITED)", "price": 9999999, "image": "https://cdn.discordapp.com/attachments/1045746304510337144/1394548206330708099/IMG_20241126_160930.jpg?ex=687735b9&is=6875e439&hm=dcc7a898e8d149ff9cf3f70e60e98a3b0ce44d9caf8cfa587f8147a0fa9cfe37&?w=500&q=80"},
+    {"id": 2, "name": "Rolex GLT watch", "price": 524599, "image": "https://cdn.discordapp.com/attachments/949696311760920667/1364915170832285706/image.png?ex=6876da0f&is=6875888f&hm=bc6aba267e4e9a1390251ad47450cd61802119d6c68bcfeb0a0653f27113fc2d&?w=500&q=80"},
+    {"id": 3, "name": "Shoujo Ramune Episode 1 2 DVD 2Set", "price": 5295, "image": "https://cdn.discordapp.com/attachments/1045746304510337144/1394549901253283870/s-l1600.jpg?ex=6877374d&is=6875e5cd&hm=1e9871b8b2c6e4cad5358327e209354b2cc1f107a4b879420cba8fb60d41a85f&?w=500&q=80"},
+    {"id": 4, "name": "Shoujo Ramune Episode 3 DVD", "price": 2400, "image": "https://cdn.discordapp.com/attachments/1045746304510337144/1394550245982994553/s-l1600.jpg?ex=687737a0&is=6875e620&hm=03d9838756951d10dfdaaa7cf0d1cf7ba1f3197014268e269cbc6aa575323b16&?w=500&q=80"},
+    {"id": 5, "name": "Shoujo Ramune Episode 4 DVD", "price": 2400, "image": "https://cdn.discordapp.com/attachments/1045746304510337144/1394550471989137468/s-l960.jpg?ex=687737d6&is=6875e656&hm=f786d18aaba0d762eac46e6d4ecd1e4bd93d7a3f408004346b998c2fe508301a&w=500"},
+    {"id": 6, "name": "Crimson Buffalo Latex Muscle Suit", "price": 55999, "image": "https://cdn.discordapp.com/attachments/1045746304510337144/1394549215824187463/IMG_3856.png?ex=687736aa&is=6875e52a&hm=6e9a47d9da54fc910502f1dd6768b1d03c4629b32f05ed46df63d635293e3bda&?w=500&q=80"},
+    {"id": 7, "name": "Shupogaki 2Set (LIMITED)", "price": 759999, "image": "https://cdn.discordapp.com/attachments/1045746304510337144/1394552179750207599/60219c3c76dac5982189b0f246b201e0-1.jpg?ex=6877396d&is=6875e7ed&hm=4d2dd57c0b84285b4a224de7e1c787e233d92f84f545005dfe42efcd8a01774e&?w=500&q=80"},
+    {"id": 8, "name": "Tanga Ibuki (LIMITED)", "price": 459999, "image": "https://cdn.discordapp.com/attachments/1045746304510337144/1394553411936059483/5b99bf2959e157a27f3a1e2ba5893247.jpg?ex=68773a92&is=6875e912&hm=8503afb59fd3d3f24302edda77507fe0730f51ae1f7b0c46581bf9fc1d3d320c&?w=500&q=80"},
+    {"id": 9, "name": "Pearto", "price": 5, "image": "https://cdn.discordapp.com/attachments/1045746304510337144/1394633222523981844/image.png?ex=687784e7&is=68763367&hm=fe588939320ae3089533d92ae071b4084cd2bc925bb93579e10abf174ae97c71&w=500"},   
+    {"id": 10, "name": "น้องวีวี่ (LIMITED)", "price": 975899, "image": "https://cdn.discordapp.com/attachments/1045746304510337144/1394633730643198153/567000002489701.webp?ex=68778560&is=687633e0&hm=6893778e4e2af46a4ba68a0ce7d150bbb272e61a98563e62e87bb862ba2eeca6&w=500"},   
+    {"id": 11, "name": "Badass Cool Fucking T-shirt", "price": 6999, "image": "https://cdn.discordapp.com/attachments/1045746304510337144/1394544133829427292/grim-reaper-tribal-middle-finger-t-shirt-black-gre.png?ex=687731ee&is=6875e06e&hm=dae65508ee7f7d6ad1934f7bb10e8b6b8828d6b72810c02cc8c8572f83e2322b&w=500"},   
+    {"id": 12, "name": "Lightning Pants", "price": 299, "image": "https://cdn.discordapp.com/attachments/1045746304510337144/1366296204643926106/image.png?ex=68769a3f&is=687548bf&hm=7ce0c3e9b7247d5c902b13b625005e49439f9b18e26268bdf591b405644c3331&w=500"}   
 ]
+
+
+  
