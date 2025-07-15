@@ -15,7 +15,7 @@ main {justify-content: center; padding: 1rem; }
 }
 
 .product-card:hover {
-    transform: scale(1.05);
+    transform: scale(1.15);
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 }
 
